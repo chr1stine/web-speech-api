@@ -1,2 +1,3 @@
-# frontend-min-template
-template for react demos
+# Web Speech API
+
+Для реализации создания текстовых аннотаций с записи голосом
